@@ -1,4 +1,3 @@
-### Hola! 👋 Mi nombre es Hugo Patricio Rodriguez 
 
 <h1 align="center">Hola 👋, Mi nombre es Hugo Patricio Rodriguez</h1>
 <h3 align="center">Un apasionado desarrollador fullstack de Argentina</h3>
