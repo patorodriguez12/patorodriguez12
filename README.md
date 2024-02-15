@@ -6,8 +6,9 @@
 
 - 🔭 Y también en [PetVogue (frontend)](https://github.com/LautaroEZM/PetVogueHome)
 
-<h3 align="left">Conecta conmigo: (https://www.linkedin.com/in/patricio-rodriguez-a361a7108)</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/patricio-rodriguez-a361a7108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patricio-rodriguez-a361a7108" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tecnologias con las que he trabajado:</h3>
