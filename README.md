@@ -2,9 +2,7 @@
 <h1 align="center">Hola 👋, Mi nombre es Hugo Patricio Rodriguez</h1>
 <h3 align="center">Un apasionado desarrollador fullstack de Argentina</h3>
 
-- 🔭 Actualmente me encuentro trabajando en [Tomasa Deco (frontend)](https://github.com/patorodriguez12/tomasadeco)
-
-- 🔭 Y también en [Tomasa Deco (backend)](https://github.com/patorodriguez12/tomasadeco_server)
+- 🔭 Actualmente me encuentro trabajando en [CS2 Utility App](https://github.com/patorodriguez12/cs2-utility-app)
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
