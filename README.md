@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋, Mi nombre es Hugo Patricio Rodriguez</h1>
 <h3 align="center">Un apasionado desarrollador fullstack de Argentina</h3>
 
-- 🔭 Actualmente me encuentro trabajando en [CS2 Utility App](https://github.com/patorodriguez12/cs2-utility-app)
+- 🔭 Actualmente me encuentro trabajando en [Smartech One - Technology E-Commerce](https://github.com/patorodriguez12/e-commerce)
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
