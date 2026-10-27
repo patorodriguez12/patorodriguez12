@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hugo Patricio Rodríguez
-### Full Stack Developer | TypeScript · Next.js · React · Node.js · Supabase (PostgreSQL)
+### Full Stack Developer | TypeScript · Next.js · React · Node.js · PostgreSQL
 
 Buenos Aires, Argentina · Programming Degree @ UTN (GPA 9.0/10) · English C1 & Spanish Native
 
