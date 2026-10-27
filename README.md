@@ -3,7 +3,7 @@
 # Hugo Patricio Rodríguez
 ### Full Stack Developer | TypeScript · Next.js · React · Node.js · Supabase (PostgreSQL)
 
-📍 Buenos Aires, Argentina · 🎓 Programming Degree @ UTN (GPA 9.0/10) · 🌎 English C1 & Spanish Native
+Buenos Aires, Argentina · Programming Degree @ UTN (GPA 9.0/10) · English C1 & Spanish Native
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo_Patricio_Rodríguez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-patricio-rodriguez-a361a7108/)
 [![Email](https://img.shields.io/badge/Email-phr12r%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phr12r@gmail.com)
@@ -12,30 +12,30 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I'm a **Full Stack Developer** focused on building end-to-end web applications that solve real business problems in production. I work across the entire stack using **TypeScript, Next.js, React, Node.js, and PostgreSQL (Supabase)**—prioritizing data integrity, security (RLS/RBAC), and clean user experiences.
 
-- 🚀 Currently maintaining and scaling production systems for commercial and hospitality clients (**Tomasa Deco & Accessories** and **INTI Hospedaje de Campo**).
-- 🎓 Top-performing student in the **University Programming Degree at UTN** (*Promedio 9.0*, all first-year courses promoted) with prior foundation in Systems Engineering (UNNOBA).
-- 💡 Strong foundation in relational databases, transactional flows, and modern frontend performance (Core Web Vitals, PWAs, hybrid rendering).
+-  Currently maintaining and scaling production systems for commercial and hospitality clients (**Tomasa Deco & Accessories** and **INTI Hospedaje de Campo**).
+-  Top-performing student in the **University Programming Degree at UTN** (*Promedio 9.0*, all first-year courses promoted) with prior foundation in Systems Engineering (UNNOBA).
+-  Strong foundation in relational databases, transactional flows, and modern frontend performance (Core Web Vitals, PWAs, hybrid rendering).
 
 ---
 
-### 🚀 Production Systems & Featured Work
+###  Production Systems & Featured Work
 
 > *Note: Client systems in active commercial operation are hosted in private repositories for security and business confidentiality. Public architecture flagship projects are available below.*
 
 | Project | Type & Status | Stack | Highlights |
 | :--- | :--- | :--- | :--- |
-| **Smartech**<br>[📂 Public Repo](https://github.com/patorodriguez12/e-commerce) · [🌐 Live Demo](https://smartech-one.vercel.app) | **Open-Source Flagship**<br>`Public` | Next.js 16, React 19, TypeScript, Tailwind CSS 4, Supabase, Stripe | Full-stack e-commerce featuring **atomic stock decrement via PostgreSQL functions**, **idempotent Stripe payment webhooks**, Row-Level Security (RLS) admin panel, and cross-device cart sync. |
-| **Tomasa Deco & Accessories**<br>`🔒 Private Client Repo` | **Commercial POS & Inventory PWA**<br>`In Production (Oct 2025 – Present)` | Next.js, TypeScript, Tailwind CSS, Supabase (PostgreSQL), PWA | End-to-end Point of Sale (POS), real-time inventory control, and product catalog built as an installable Progressive Web App. Role-Based Access Control (RBAC) and transactional sales tracking used daily in store operations. |
-| **INTI Hospedaje de Campo**<br>[🌐 Live Website](https://inti-hospedaje-de-campo.ar/) · `🔒 Private Repo` | **Hospitality & Direct Booking Web**<br>`In Production (Mar 2025 – Present)` | Next.js, TypeScript, React, Tailwind CSS, Vercel | Institutional platform and direct reservation flow. Refactored architecture and media pipeline to achieve top **Core Web Vitals** scores, minimal load latency, and higher booking conversion. |
-| **Arq-Quiz (UTN)**<br>[📂 Public Repo](https://github.com/patorodriguez12/arq-quiz) · [🌐 Live App](https://arq-quiz.vercel.app) | **Academic Study Tool**<br>`Public` | Next.js, TypeScript, Tailwind CSS | Interactive quiz platform built to practice Computer Architecture and Operating Systems concepts for the UTN Programming Degree. |
+| **Smartech**<br>[ Public Repo](https://github.com/patorodriguez12/e-commerce) · [ Live Demo](https://smartech-one.vercel.app) | **Open-Source Flagship**<br>`Public` | Next.js 16, React 19, TypeScript, Tailwind CSS 4, Supabase, Stripe | Full-stack e-commerce featuring **atomic stock decrement via PostgreSQL functions**, **idempotent Stripe payment webhooks**, Row-Level Security (RLS) admin panel, and cross-device cart sync. |
+| **Tomasa Deco & Accessories**<br>` Private Client Repo` | **Commercial POS & Inventory PWA**<br>`In Production (Oct 2025 – Present)` | Next.js, TypeScript, Tailwind CSS, Supabase (PostgreSQL), PWA | End-to-end Point of Sale (POS), real-time inventory control, and product catalog built as an installable Progressive Web App. Role-Based Access Control (RBAC) and transactional sales tracking used daily in store operations. |
+| **INTI Hospedaje de Campo**<br>[ Live Website](https://inti-hospedaje-de-campo.ar/) · ` Private Repo` | **Hospitality & Direct Booking Web**<br>`In Production (Mar 2025 – Present)` | Next.js, TypeScript, React, Tailwind CSS, Vercel | Institutional platform and direct reservation flow. Refactored architecture and media pipeline to achieve top **Core Web Vitals** scores, minimal load latency, and higher booking conversion. |
+| **Arq-Quiz (UTN)**<br>[ Public Repo](https://github.com/patorodriguez12/arq-quiz) · [ Live App](https://arq-quiz.vercel.app) | **Academic Study Tool**<br>`Public` | Next.js, TypeScript, Tailwind CSS | Interactive quiz platform built to practice Computer Architecture and Operating Systems concepts for the UTN Programming Degree. |
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Frontend & Web**
 <p>
